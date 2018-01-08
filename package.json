@@ -4,7 +4,7 @@
   "description": "boilermaker initialization to practice git and boilerplate code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm/issues"
   },
-  "homepage": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm#readme"
+  "homepage": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2"
+  }
 }
