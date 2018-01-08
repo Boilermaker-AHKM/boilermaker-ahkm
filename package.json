@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm/issues"
   },
-  "homepage": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm#readme"
+  "homepage": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "volleyball": "^1.4.1"
+  }
 }
