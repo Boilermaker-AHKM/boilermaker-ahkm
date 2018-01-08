@@ -1,0 +1,19 @@
+{
+  "name": "boilermaker-ahkm",
+  "version": "1.0.0",
+  "description": "boilermaker initialization to practice git and boilerplate code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boilermaker-AHKM/boilermaker_ahkm.git"
+  },
+  "author": "Ari Kramer, Han Hung, Kevin Ho, Max Legocki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm/issues"
+  },
+  "homepage": "https://github.com/Boilermaker-AHKM/boilermaker_ahkm#readme"
+}
